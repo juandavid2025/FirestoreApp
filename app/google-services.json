@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1099079971167",
+    "firebase_url": "https://apuntes-android-firebase-default-rtdb.firebaseio.com",
+    "project_id": "apuntes-android-firebase",
+    "storage_bucket": "apuntes-android-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099079971167:android:5a143b10646038ff0f46ea",
+        "android_client_info": {
+          "package_name": "co.doomy.firestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099079971167-8eiqbv2ep1lr1fhivtvotujbnc28kift.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxS2EIk67H5Tc4VbP0Wpeeua_YQSX3AUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099079971167-8eiqbv2ep1lr1fhivtvotujbnc28kift.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
